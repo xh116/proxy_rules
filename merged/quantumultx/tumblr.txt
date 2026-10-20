@@ -1,0 +1,2 @@
+# Updated: Tue Oct 20 11:06:00 CST 2026
+host-suffix,tumblr.com,tumblr
